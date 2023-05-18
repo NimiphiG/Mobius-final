@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 48b5235317c600f4e867aaa0766d5384
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Roman Vibes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d006a8155f74d734797839e5b45be35e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

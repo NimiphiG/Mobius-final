@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6e92d7c3563ff0945bf1122c6a331b2e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Richard Samuels
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d535d8853c69394e8fb0453c4f1511c, type: 3}
+  - {fileID: 12800000, guid: 5811933a878514346a6614e001482a73, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

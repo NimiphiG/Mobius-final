@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 047f1fc092c872a4286f245ddfabf363
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Simon Blooming Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 610bd8d58f0c2a8499fc19e2dfc9f0c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
